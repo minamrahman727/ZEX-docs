@@ -1,0 +1,1 @@
+console.log("document library is ready")
