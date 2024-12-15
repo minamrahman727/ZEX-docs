@@ -59,6 +59,4 @@ Contributions are welcome! If you have suggestions or find any issues, feel free
 ---
 
 Thank you for visiting **Zex Docs**! Let us know your feedback or ideas to make it even better. 🚀
-``` 
 
-Let me know if you need further refinements!
